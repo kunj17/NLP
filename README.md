@@ -1,2 +1,3 @@
 # NLP
-WILL UPLOAD PROJECTS SOON 
+Restaurant's Good and Bad reviews prediction
+Dataset included in tsv format.
